@@ -27,4 +27,3 @@ A console-based Online Examination System built using Core Java and OOP concepts
 
 ## Author
 Hasibur Rahaman
-![onlineexamoutput1](https://github.com/user-attachments/assets/eefb068a-f910-4153-8928-7a8125530de1)
